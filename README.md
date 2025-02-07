@@ -1,16 +1,7 @@
-How to load project:
+# Tauri + React + Typescript
 
-Begin by executing the following command inside the project folder
-```
-npm run build
-```
+This template should help get you started developing with Tauri, React and Typescript in Vite.
 
-To load the project in web run:
-```
-npm run dev:react
-```
+## Recommended IDE Setup
 
-To load the project as an application run:
-```
-npm run dev:electron
-```
+- [VS Code](https://code.visualstudio.com/) + [Tauri](https://marketplace.visualstudio.com/items?itemName=tauri-apps.tauri-vscode) + [rust-analyzer](https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer)
